@@ -6,4 +6,4 @@ For example of model run corresponding to Leppä et al. (*in press*) see [demo.i
 Note data use permisions of model forcing data in [data/forcing_readme.txt](data/forcing_readme.txt)
 
 ### Reference:
-Leppä, K., Tang, Y., Ogeé, J., Launiainen, S., Kahmen, A., Kolari, P., Sahlstedt, E., Saurer, M., Schiestl-Aalto, P., Rinne-Garmston, K. Explicitly accounting for needle sugar pool size crucial for predicting intra-seasonal dynamics of needle carbohydrates δ18O and δ13C. New Phytologist, *in press*.
+Leppä, K., Tang, Y., Ogeé, J., Launiainen, S., Kahmen, A., Kolari, P., Sahlstedt, E., Saurer, M., Schiestl-Aalto, P., Rinne-Garmston, K.T. Explicitly accounting for needle sugar pool size crucial for predicting intra-seasonal dynamics of needle carbohydrates δ18O and δ13C. New Phytologist, *in press*.
