@@ -8,7 +8,7 @@ Contains:
 	To obtain data from SMEAR -stations visit https://smear.avaa.csc.fi/download
 
 -	d13Ca from Pallas-Sammaltunturi GAW-station (White et al. 2015)
-	Contact sylvia.michel@colorado.edu for data use permissions
+	Contact sylvia.michel (a) colorado.edu for data use permissions
 	Original weekly data interpolated linearly
 
 -	d18Ov from IsoGSM (Yoshimure et al., 2008)
@@ -16,7 +16,7 @@ Contains:
 	For data use permissions see: http://isotope.iis.u-tokyo.ac.jp/~kei/tmp/isogsm2/Readme
 
 -	d18O_prec analyzed from study site monthly precipitation
-	Contact katja.rinne-garmston@luke.fi for data use permissions
+	Contact katja.rinne-garmston (a) luke.fi for data use permissions
 
 Columns:
 
@@ -38,4 +38,4 @@ References:
 
 White, J.W.C., B.H. Vaughn, and S.E. Michel (2015), University of Colorado, Institute of Arctic and Alpine Research (INSTAAR), Stable Isotopic Composition of Atmospheric Carbon Dioxide (13C and 18O) from the NOAA ESRL Carbon Cycle Cooperative Global Air Sampling Network, 1990-2014, Version: 20210204, Path: ftp://aftp.cmdl.noaa.gov/data/trace_gases/co2c13/flask/.
 
-Yoshimura, K., Kanamitsu, M., Noone, D. and Oki, T. (2008) Historical isotope simulation using Reanalysis atmospheric data. Journal of Geophysical Research: Atmospheres, 113.
+Yoshimura, K., Kanamitsu, M., Noone, D. and Oki, T. (2008) Historical isotope simulation using Reanalysis atmospheric data. Journal of Geophysical Research: Atmospheres, 113, D19108.
