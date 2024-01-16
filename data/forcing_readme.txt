@@ -30,7 +30,7 @@ Ws: volumetric soil moisture in at 5 cm depth in mineral soil (m3 m-3)
 Zen: solar zenith angle [rad]
 Par: photosynthetically active radiation (umol m-2 s-1)
 d13Ca: carbon isotope composition of atmospheric CO2 (permil, VPDB)
-d18Ov: oxygen isotope composition of atmospheric CO2 (permil, VSMOW)
+d18Ov: oxygen isotope composition of atmospheric water vapor (permil, VSMOW)
 d18O_prec: oxygen isotope composition of precipitation (permil, VSMOW)
 ET: evapotranspiration [mm d-1]
 
